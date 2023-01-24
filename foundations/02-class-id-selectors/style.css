@@ -1,0 +1,21 @@
+.firstclass{
+    background-color: #e67171;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.secondclass{
+    font-size: 24px;
+}
+
+#oneid {
+    color: #0000aa;
+    font-size: 36px;
+}
+
+#anotherid{
+    background-color: #00ff00;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
