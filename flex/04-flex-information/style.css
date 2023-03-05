@@ -7,10 +7,48 @@ img {
   height: 100px;
 }
 
+.information-container {
+  display: flex;
+  justify-content: center;
+}
+
 .title {
   font-size: 36px;
   font-weight: 900;
+  padding: 2px;
+  display: flex;
+  margin-bottom: 32px;
 }
+
+.plants-container {
+  display: flex;
+  gap: 52px;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.plant {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid red;
+  padding: 20px;
+}
+
+.text {
+  flex: 1;
+  padding: 4px;
+  align-self: center;
+  justify-self: center;
+  text-align: center;
+}
+
+
+
+
+
 
 /* do not edit this footer */
 .footer {
